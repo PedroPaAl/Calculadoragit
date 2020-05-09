@@ -6,7 +6,7 @@
 package calculadora;
 
 /**
- * sfdadsfsdafsdaf aseddejeeeeeeee
+ * Me cago en mis putos meurtos pisaos
  * @author redes
  * @since 14/12/2020
  * @version 2.0
@@ -24,8 +24,7 @@ public class Calculadora {
     public Calculadora(int a, int b){
         num1=a;
         num2=b;
-    }
-    
+    }    
     /**
      *
      * @return
